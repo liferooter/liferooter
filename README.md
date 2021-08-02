@@ -10,10 +10,11 @@
 Hi, I am Gleb Smirnov, 16 y.o. software developer who really want to make this world better.</br>
 I love Open Source, programming and tea. I am Linux and GNOME fan.
 
+I live in Moscow, Russia.
+
 # My skills
 
-**Fun fact about me:** I'm 5 years in programming, but I believe that my birth as software developer is 2021 year.
-It's when I started to create real projects, contribute to other projects and develop my skills.
+  **Fun fact about me:** I'm 5 years in programming, but I believe that my birth as software developer is January of 2021. It's when I started to create real projects, contribute to other projects and develop my sklls.
 
 ## Python
 
@@ -45,20 +46,45 @@ I also contributed to some GTK Python project, such as [Meowgram](https://github
 
 ## GTK and GNOME
 
-...
+I develop applications for GNOME platform using GTK since January of 2021.
+
+My first gnomish project is Text Pieces, text transformation app inspired by Boop:
+
+<a href="https://github.com/liferooter/textpieces">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=liferooter&repo=textpieces"/>
+<a/><br/><br/>
+
+I worked a little bit on [Meowgram](https://github.com/ExposedCat/Meowgram), GTK Telegram client written in Python.
+Also I did some little contributions in GTK itself and Libadwaita, UI library for GNOME built on top of GTK.
 
 ## Vala
 
-...
+I initially started writting [Text Pieces](https://github.com/liferooter/textpieces) in Rust, but almost immediately switched to Vala because it's more high-level than Rust and can be easily used with GTK because it's built with GLib.
+  
+I really love this language. It's as high-level as C# and as fast as C. Vala has one really good feature: library written in Vala can be used from a lot of languages without writting bindings manually via [GObject Introspection](https://gi.readthedocs.io/en/latest/index.html).
 
-## C
-
-...
+Now I work on [telegram-glib](https://gitlab.gnome.org/liferooter/telegram-glib), TDLib-based Telegram API library written in Vala. Work is in progress now, but when it will be done, a lot of languages will get good Telegram API library that is based on official TDLib and will support all TDLib's features.
 
 ## Linux
 
-...
+I use Linux for two years. I used Linux Mint, Gentoo Linux, Arch Linux, Ubuntu, NixOS and Fedora. I have some experience of Linux setting up. Now I use Fedora Linux with GNOME.
+  
+I develop software for Linux. I have no (and won't have) computers with Windows and macOS. I believe that operating system **MUST** be open-source. Your computer shouldn't run arbitary code got from Microsoft or Apple as OS core. I believe that properietary software makes users non-free.
 
+# Ask me about
+
+Feel free to ask me about Linux, GNOME, GTK, Python, Vala and Open Source.
+  
+I am open for new Open Source projects. Contributions to my projects are also wellcomed.
+
+# How to contact me
+  
+I use Telegram. My nickname is [@liferooter](https://t.me/liferooter).
+  
+I use Matrix. My nickname is `@liferooter:matrix.org`.
+
+I use e-mail. My address is [glebsmirnov@gmail.com](mailto:glebsmirnov@gmail.com).
+  
 <!--
 **liferooter/liferooter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
