@@ -81,7 +81,7 @@ I am open for new Open Source projects. Contributions to my projects are also we
   
 I use Telegram. My nickname is [@liferooter](https://t.me/liferooter).
   
-I use Matrix. My nickname is `@liferooter:matrix.org`.
+I use Matrix. My nickname is `@liferooter:vanutp.dev`.
 
 I use e-mail. My address is [glebsmirnov@gmail.com](mailto:glebsmirnov@gmail.com).
   
